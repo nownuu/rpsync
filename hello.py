@@ -1,6 +1,6 @@
-avg = (5476) / 2
-print("Average:",[D[D [C[C[D[D[",avg)
+avg = (54+76) / 2
+print("Average:",avg)
 if avg >= 70:
-print("You're a pass!")
+  print("You're a pass!")
 else : 
-print("You're rejected!")
+  print("You're rejected!")
